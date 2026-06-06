@@ -1,4 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
+# NAME:AMMINENI MOKSHASREE
+# REG.NO:2305001001
 
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
@@ -65,6 +67,7 @@ int main()
 }
 ```
 ## OUTPUT
+<img width="523" height="320" alt="image" src="https://github.com/user-attachments/assets/48503811-0065-4c5d-ac4e-53838af8c794" />
 
 
 ## RESULT
